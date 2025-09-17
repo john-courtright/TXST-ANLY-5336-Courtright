@@ -7,4 +7,6 @@ This repository was created as a public way to display my development in analyti
 
 All notebooks contain a direct link to the source data.
 
+Each Assignment folder has a dedicated README with information about that assignment's data sources and the general concepts explored in the assignment.
+
 Assignment 1: Working with Airbnb listing data & The Washington Post's "Game of Thrones" death database
